@@ -1,0 +1,41 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException
+
+
+def is_element_present(driver, by, value):
+    try:
+        driver.find_element(by, value)
+        return True
+    except NoSuchElementException:
+        return False
+
+
+def wait_for_element(driver, by, element):
+    while not is_element_present(driver, by, element):
+        pass
+
+
+names = []
+emails = []
+amount_of_signs = 1
+for name, email in zip(names, emails):
+    browser = webdriver.Firefox()
+    browser.get("https://www.atzuma.co.il/skillz")
+
+    name_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[1]/input'
+    wait_for_element(browser, By.XPATH, name_path)
+    name_field = browser.find_element_by_xpath(name_path)
+    name_field.send_keys(name)
+
+    email_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[2]/input'
+    wait_for_element(browser, By.XPATH, email_path)
+    email_field = browser.find_element_by_xpath(email_path)
+    name_field.send_keys(email)
+
+    submit_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[6]/input'
+    wait_for_element(browser, By.XPATH, submit_path)
+    submit_field = browser.find_element_by_xpath(submit_path)
+    submit_field.click()
+
+    browser.quit()
