@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
-
+from faker import Faker
 
 def is_element_present(driver, by, value):
     try:
@@ -16,11 +16,12 @@ def wait_for_element(driver, by, element):
         pass
 
 
-names = ['Eran Zohar']
-emails = ['eranz@gmail.com']
+fake = Faker()
 amount_of_signs = 1
 browser = webdriver.Firefox()
-for name, email in zip(names, emails):
+for _ in range(amount_of_signs):
+    name = fake.name()
+    email = fake.free_email()
     browser.get("https://www.atzuma.co.il/skillz")
 
     name_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[1]/input'
@@ -38,4 +39,4 @@ for name, email in zip(names, emails):
     submit_field = browser.find_element_by_xpath(submit_path)
     submit_field.click()
 
-    browser.quit()
+browser.quit()
