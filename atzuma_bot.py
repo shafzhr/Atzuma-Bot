@@ -19,8 +19,8 @@ def wait_for_element(driver, by, element):
 names = ['Eran Zohar']
 emails = ['eranz@gmail.com']
 amount_of_signs = 1
+browser = webdriver.Firefox()
 for name, email in zip(names, emails):
-    browser = webdriver.Firefox()
     browser.get("https://www.atzuma.co.il/skillz")
 
     name_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[1]/input'
