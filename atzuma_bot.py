@@ -16,8 +16,8 @@ def wait_for_element(driver, by, element):
         pass
 
 
-names = []
-emails = []
+names = ['Eran Zohar']
+emails = ['eranz@gmail.com']
 amount_of_signs = 1
 for name, email in zip(names, emails):
     browser = webdriver.Firefox()
@@ -31,7 +31,7 @@ for name, email in zip(names, emails):
     email_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[2]/input'
     wait_for_element(browser, By.XPATH, email_path)
     email_field = browser.find_element_by_xpath(email_path)
-    name_field.send_keys(email)
+    email_field.send_keys(email)
 
     submit_path = '/html/body/div[5]/div[3]/div[4]/div[1]/form/fieldset/div[6]/input'
     wait_for_element(browser, By.XPATH, submit_path)
