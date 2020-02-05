@@ -1,0 +1,81 @@
+
+104.32.43.13 _53281 _US _United _States _elite _proxy _no _yes _11 _minutes _ago _12.218.209.130 _53281 _US _United _States _elite _proxy _no _yes _21 _minutes _\
+13.66.208.202 _80 _US _United _States _elite _proxy _no _no _21 _minutes _ago _\
+134.209.219.234 _80 _US _United _States _elite _proxy _no _no _31 _minutes _ago\
+146.185.204.40 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+154.7.2.157 _312 _US _United _States _transparent _no _no _27 _minutes _ago\
+154.7.32.2 _92 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+154.7.5.127 _312 _US _United _States _transparent _no _no _27 _minutes _ago\
+154.7.6.111 _312 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+154.7.6.146 _312 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+154.7.6.58 _312 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+159.89.234.210 _3128 _US _United _States _elite _proxy _no _yes _1 _minute _ago\
+167.172.32.164 _3128 _US _United _States _elite _proxy _no _yes _40 _minutes _ago\
+172.241.192.143 _8118 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+172.241.192.205 _8118 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+172.241.192.210 _8118 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+172.241.192.224 _8118 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+172.241.192.226 _8118 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+172.241.192.241 _8118 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+172.93.42.100 _8080 _US _United _States _anonymous _no _no _1 _minute _ago\
+178.159.107.152 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+178.159.107.17 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+178.159.107.221 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+178.159.107.248 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+178.159.107.51 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+185.174.100.187 _4045 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+185.174.101.105 _4045 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+185.174.101.153 _4045 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.92.101 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.92.114 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.92.174 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.92.201 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.92.215 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.92.47 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.92.86 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.93.136 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.93.13 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.93.140 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.93.155 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.93.176 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.93.180 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.93.33 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.187.94.133 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.94.142 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.94.217 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.94.240 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.95.134 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.187.95.195 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.10.134 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.10.136 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.10.155 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.11.155 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.11.21 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.11.86 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.12.12 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.12.122 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.12.200 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.13.224 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.13.22 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.14.233 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.15.60 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.8.177 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.8.25 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.8.8 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.84.170 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.84.187 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+193.202.84.225 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.86.133 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+193.202.87.15 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+198.100.156.121 _80 _US _United _States _elite _proxy _no _no _1 _minute _ago\
+198.199.85.13 _3128 _US _United _States _anonymous _no _yes _44 _minutes _ago\
+198.211.96.12 _3128 _US _United _States _elite _proxy _no _yes _43 _minutes _ago\
+198.211.96.170 _3128 _US _United _States _elite _proxy _no _yes _1 _hour _1 _minute _ago\
+198.71.62.147 _92 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+2.57.79.52 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+208.67.183.240 _80 _US _United _States _elite _proxy _no _no _11 _minutes _ago\
+209.90.63.108 _80 _US _United _States _anonymous _no _yes _7 _seconds _ago\
+212.119.40.86 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+212.119.42.73 _8085 _US _United _States _transparent _no _no _1 _hour _5 _minutes _ago\
+213.166.76.190 _8085 _US _United _States _transparent _no _no _1 _hour _11 _minutes _ago\
+"
