@@ -1,7 +1,10 @@
+import time
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from faker import Faker
+
 
 def is_element_present(driver, by, value):
     try:
@@ -16,9 +19,18 @@ def wait_for_element(driver, by, element):
         pass
 
 
+proxyString = "118.174.211.220:11"
+desired_capability = webdriver.DesiredCapabilities.FIREFOX
+desired_capability['proxy'] = {
+    "proxyType": "manual",
+    "httpProxy": proxyString,
+    "ftpProxy": proxyString,
+    "sslProxy": proxyString
+}
+browser = webdriver.Firefox(capabilities=desired_capability)
+
 fake = Faker()
-amount_of_signs = 1
-browser = webdriver.Firefox()
+amount_of_signs = 5
 for _ in range(amount_of_signs):
     name = fake.name()
     email = fake.free_email()
@@ -39,4 +51,5 @@ for _ in range(amount_of_signs):
     submit_field = browser.find_element_by_xpath(submit_path)
     submit_field.click()
 
+input()
 browser.quit()
