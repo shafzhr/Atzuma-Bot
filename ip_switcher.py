@@ -1,9 +1,7 @@
-"""
 from lxml.html import fromstring
 import requests
 from itertools import cycle
 import traceback
-
 
 def get_proxies():
     url = 'https://free-proxy-list.net/'
@@ -69,7 +67,7 @@ for i in range(1,100):
         # Most free proxies will often get connection errors. You will have retry the entire request using another proxy to work.
         # We will just skip retries as its beyond the scope of this tutorial and we are only downloading a single url
         print("Skipping. Connnection error")
-        """
+"""
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
@@ -124,3 +122,4 @@ def random_proxy():
 
 if __name__ == '__main__':
   main()
+  """
